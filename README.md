@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro and there's nothing to say about me.</h2>
+<h2 align="left">Hi👋.</h2>
 
 ###
 
