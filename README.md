@@ -1,5 +1,6 @@
-<h2 align="left">Olá 👋! Me chamo Pedro.</h2>
-<h3 align="left">Estudante de BTI na Universidade Federal Rural do Semiárido.</h3>
+<h2 align="left">Olá 👋🙂! Me chamo Pedro.</h2>
+<h3 align="left">💻Estudante de BTI na Universidade Federal Rural do Semiárido.</h3>
+
 
 
 <div align="center">
