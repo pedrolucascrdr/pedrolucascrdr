@@ -12,9 +12,10 @@
 
 <img align="left" height="190" src="https://media1.tenor.com/m/hmORmKK6V4AAAAAC/sips-tea-soul-eater.gif"  />
 
-###
 
-<div align="center">
+###
+<h3 align="right">Linguagens que estão sendo aprendidas:</h3>
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
