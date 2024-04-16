@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro, and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋! Me chamo Pedro, e estou cursando BTI na Universidade Federal Rural do Semiárido.</h2>
 
 ###
 
